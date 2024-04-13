@@ -1,6 +1,6 @@
 # Front Page del TP
 
-COMPILADOR ELEGIDO: mingw w64 gcc for windows
+COMPILADOR ELEGIDO: mingw w64 gcc for windows - versión 13.2.0
 
 
 INSTRUCCIONES DE COMPILACIÓN: Luego de clonar el contenido del directorio en nuestra y pc y tras descargar el compilador mingw w64 gcc, abrimos la consola como administrador y tipeamos lo siguiente:
