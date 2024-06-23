@@ -22,7 +22,7 @@
 | 11              | `nro`                                       | identificador          |
 | 11              | `==`                                        | operador               |
 | 11              | `NULL`                                      | constante              |
-| 11              | `||`                                        | operador               |
+| 11              | `|`                                        | operador               |
 | 11              | `*`                                         | operador               |
 | 11              | `nro`                                       | identificador          |
 | 11              | `==`                                        | operador               |
@@ -45,7 +45,7 @@
 | 18              | `nro`                                       | identificador          |
 | 18              | `<`                                         | operador               |
 | 18              | `'0'`                                       | constante              |
-| 18              | `||`                                        | operador               |
+| 18              | `|`                                        | operador               |
 | 18              | `*`                                         | operador               |
 | 18              | `nro`                                       | identificador          |
 | 18              | `>`                                         | operador               |
