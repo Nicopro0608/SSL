@@ -19,8 +19,7 @@ int esNumero(const char *nro) // devuelve 1(true) si ES NUMERO
         {
             return 0;
         }
-        else
-        {
+        else {
             nro++;
         }
     }
@@ -28,8 +27,7 @@ int esNumero(const char *nro) // devuelve 1(true) si ES NUMERO
 	return 1;
 }
 
-int main(int argc, char *argv[])
-{
+int main(int argc, char *argv[]) {
 	if (argc != 3)
     {
 		puts("uso: suma nro1 nro2");
